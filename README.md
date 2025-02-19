@@ -13,9 +13,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/himanshukumar56/count.svg?"  />
-</div>
+<p align="center">Tech Stacks :)</p>
 
 ###
 
@@ -83,13 +81,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://img.freepik.com/free-vector/man-sysadmine-computer-programmer-working-computer_575670-70.jpg?t=st=1739991948~exp=1739995548~hmac=60aca7acab2dde047b40c20b9bb89e54480b078762009fe37705035ac24acf5a&w=900"  />
-</div>
+<p align="center">Let's Connect :)</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/himanshu-kumar---/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -100,5 +96,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/himanshukumar56/count.svg?"  />
+</div>
+
+###
+
+<p align="center">Visitor Count : ) (Since Feb 2025)</p>
 
 ###
